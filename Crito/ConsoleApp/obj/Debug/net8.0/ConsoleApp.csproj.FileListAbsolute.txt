@@ -1,0 +1,17 @@
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Project\Crito\ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CopyComplete
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Project\Crito\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
